@@ -1,4 +1,5 @@
 # Contact-manager
 Information Security principles included
-![image](https://github.com/user-attachments/assets/fe3b7dd4-5cfe-4162-9eb2-441efb94a469)
 
+here's the poster of what the project aims to do:
+![Poster](https://github.com/user-attachments/assets/cffcef26-0dc3-4250-a962-92efd85329c4)
